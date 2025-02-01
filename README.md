@@ -6,7 +6,7 @@
 
 ## 🚀 Características principales
 
-- **Agregar nombres**: Ingresa los nombres de los participantes en un campo de texto y agrégalos a la lista con un solo clic.
+- **Agregar nombres**: Ingresa los nombres de los participantes en un campo de texto y agrégalos a la lista con un solo click.
 - **Validación de entrada**: La aplicación valida que no se ingresen nombres vacíos o repetidos.
 - **Lista visual**: Todos los nombres agregados se muestran en una lista clara y ordenada.
 - **Sorteo aleatorio**: Con un solo clic, la aplicación selecciona un nombre al azar de la lista y lo muestra como el "Amigo Secreto".
