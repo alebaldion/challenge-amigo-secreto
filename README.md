@@ -22,7 +22,7 @@
 
 ---
 
-## 🧑‍💻 Explicación del código
+## 🧑‍💻 Explicación del código JavaScript
 
 ### Array `amigos`
 - Almacena los nombres de los amigos que se van agregando.
