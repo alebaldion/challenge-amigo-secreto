@@ -51,8 +51,7 @@
 
 ## 🙌 Créditos
 
-- **Desarrollado por**: Ale Baldion 
-- **Inspiración**: Repositorio base proporcionado por Alura LATAM
+- **Desarrollado por**: Ale Baldion // Repositorio base con código HTML y CSS proporcionado por Alura LATAM
 
 
 ---
